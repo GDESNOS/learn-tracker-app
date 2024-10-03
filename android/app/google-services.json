@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151547686416",
+    "project_id": "timer-app-7f1d3",
+    "storage_bucket": "timer-app-7f1d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151547686416:android:8d8d9fd9582df5b97aa495",
+        "android_client_info": {
+          "package_name": "com.example.timer_tracker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASwHC-wl1Q2WICES4IOIyBexsEQoMkB5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
